@@ -170,7 +170,3 @@ The framework can be connected to remote browser platforms and reporting service
 - Capture logs and screenshots when failures occur.
 - Use stable page-object methods instead of brittle locator usage in tests.
 - Keep API and UI automation in the same test strategy when validating end-to-end behavior.
-
-## License
-
-See [LICENSE](LICENSE) for the project license.
